@@ -22,3 +22,13 @@ Now *that* is one **big**, and I mean **HUGE** vector. Am I obsessed with *vecto
 $$l = \sqrt{a^2 + b^2+c^2}$$
 
 That's how!!!
+
+### Ah, almost forgot.
+
+Here's how you create a vector using my modules:
+
+```py
+beautiful_vector = Vector(2, 3, 5)
+# or even like that:
+even_more_beautiful_vector = Vector(2, 3, 6, start_point=Point(1, 1, 1))
+```
